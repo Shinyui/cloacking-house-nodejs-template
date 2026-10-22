@@ -1,0 +1,62 @@
+{
+  "package.json": {
+    "mtime": 1792653713.4983888,
+    "seen": 1792656628.652382,
+    "ast_hash": "9e37e18e1edd2546bf1e9206abf2c2f1",
+    "semantic_hash": "9e37e18e1edd2546bf1e9206abf2c2f1"
+  },
+  "src/app.js": {
+    "mtime": 1792653843.9727354,
+    "seen": 1792656628.652384,
+    "ast_hash": "d28e6d94ea3d22ccddf6e3a0776e0822",
+    "semantic_hash": "d28e6d94ea3d22ccddf6e3a0776e0822"
+  },
+  "src/client-ip.js": {
+    "mtime": 1792653843.96018,
+    "seen": 1792656628.652385,
+    "ast_hash": "94fdd05423d04c8df3ce90c6747b7a73",
+    "semantic_hash": "94fdd05423d04c8df3ce90c6747b7a73"
+  },
+  "src/config.js": {
+    "mtime": 1792653958.6578236,
+    "seen": 1792656628.652385,
+    "ast_hash": "f0876b3a671a296805bd1aac3f7cda55",
+    "semantic_hash": "f0876b3a671a296805bd1aac3f7cda55"
+  },
+  "src/flow.js": {
+    "mtime": 1792653713.6927807,
+    "seen": 1792656628.652386,
+    "ast_hash": "b6057dd126cf3791570c62a4e42537d3",
+    "semantic_hash": "b6057dd126cf3791570c62a4e42537d3"
+  },
+  "src/server.js": {
+    "mtime": 1792653713.7181077,
+    "seen": 1792656628.6523871,
+    "ast_hash": "84da4456ef1da9db6f6feb3108d75c87",
+    "semantic_hash": "84da4456ef1da9db6f6feb3108d75c87"
+  },
+  "test/template.test.js": {
+    "mtime": 1792654138.867439,
+    "seen": 1792656628.652388,
+    "ast_hash": "ef6687fd573933d1778442199ad8b4e2",
+    "semantic_hash": "ef6687fd573933d1778442199ad8b4e2"
+  },
+  "README.md": {
+    "mtime": 1792653958.8251872,
+    "seen": 1792656628.652388,
+    "ast_hash": "d9328325f34db5b9cdf658537f6d078e",
+    "semantic_hash": "d9328325f34db5b9cdf658537f6d078e"
+  },
+  "pages/offer.html": {
+    "mtime": 1792653713.6154354,
+    "seen": 1792656628.652389,
+    "ast_hash": "806493cbbcfad9d17f513cc09d94bfe2",
+    "semantic_hash": "806493cbbcfad9d17f513cc09d94bfe2"
+  },
+  "pages/white.html": {
+    "mtime": 1792653713.6279693,
+    "seen": 1792656628.65239,
+    "ast_hash": "6c23368c669a494338aa549db32b58ba",
+    "semantic_hash": "6c23368c669a494338aa549db32b58ba"
+  }
+}

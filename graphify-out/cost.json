@@ -1,0 +1,16 @@
+{
+  "runs": [
+    {
+      "date": "2026-10-22T08:10:28.653008+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 10,
+      "token_usage_status": "unavailable",
+      "token_usage_note": "Semantic extraction token usage was not exposed by the agent tool. Zero counters are unmeasured placeholders. AST uses zero model tokens."
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0,
+  "token_usage_status": "incomplete",
+  "token_usage_note": "Numeric totals only track reported usage and exclude unmeasured agent runs; they do not represent total session cost."
+}

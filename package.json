@@ -1,0 +1,21 @@
+{
+  "name": "cloaking-house-blank-template",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "dev": "node --watch --env-file-if-exists=.env src/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "5.2.1",
+    "parse5": "7.3.0"
+  },
+  "devDependencies": {
+    "@hapi/shot": "6.0.3"
+  }
+}
