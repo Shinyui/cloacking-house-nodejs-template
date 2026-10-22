@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <a href="https://cloaking.house/id53345">Cloaking.House 邀请链接</a>
+</p>
+
+<p align="center">
   <a href="README.md" lang="en">English</a> · <strong><a href="README.zh-CN.md" lang="zh-CN">简体中文</a></strong> · <a href="README.zh-TW.md" lang="zh-TW">繁體中文</a>
 </p>
 
